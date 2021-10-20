@@ -1,0 +1,12 @@
+C:\github\MonoModular\MonoModular.Products.Domain\bin\Debug\net5.0\MonoModular.Products.Domain.deps.json
+C:\github\MonoModular\MonoModular.Products.Domain\bin\Debug\net5.0\MonoModular.Products.Domain.dll
+C:\github\MonoModular\MonoModular.Products.Domain\bin\Debug\net5.0\ref\MonoModular.Products.Domain.dll
+C:\github\MonoModular\MonoModular.Products.Domain\bin\Debug\net5.0\MonoModular.Products.Domain.pdb
+C:\github\MonoModular\MonoModular.Products.Domain\obj\Debug\net5.0\MonoModular.Products.Domain.csproj.AssemblyReference.cache
+C:\github\MonoModular\MonoModular.Products.Domain\obj\Debug\net5.0\MonoModular.Products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\MonoModular\MonoModular.Products.Domain\obj\Debug\net5.0\MonoModular.Products.Domain.AssemblyInfoInputs.cache
+C:\github\MonoModular\MonoModular.Products.Domain\obj\Debug\net5.0\MonoModular.Products.Domain.AssemblyInfo.cs
+C:\github\MonoModular\MonoModular.Products.Domain\obj\Debug\net5.0\MonoModular.Products.Domain.csproj.CoreCompileInputs.cache
+C:\github\MonoModular\MonoModular.Products.Domain\obj\Debug\net5.0\MonoModular.Products.Domain.dll
+C:\github\MonoModular\MonoModular.Products.Domain\obj\Debug\net5.0\ref\MonoModular.Products.Domain.dll
+C:\github\MonoModular\MonoModular.Products.Domain\obj\Debug\net5.0\MonoModular.Products.Domain.pdb

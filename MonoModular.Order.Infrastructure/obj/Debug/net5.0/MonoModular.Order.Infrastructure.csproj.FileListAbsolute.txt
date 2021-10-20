@@ -1,0 +1,12 @@
+C:\github\MonoModular\MonoModular.Order.Infrastructure\bin\Debug\net5.0\MonoModular.Order.Infrastructure.deps.json
+C:\github\MonoModular\MonoModular.Order.Infrastructure\bin\Debug\net5.0\MonoModular.Order.Infrastructure.dll
+C:\github\MonoModular\MonoModular.Order.Infrastructure\bin\Debug\net5.0\ref\MonoModular.Order.Infrastructure.dll
+C:\github\MonoModular\MonoModular.Order.Infrastructure\bin\Debug\net5.0\MonoModular.Order.Infrastructure.pdb
+C:\github\MonoModular\MonoModular.Order.Infrastructure\obj\Debug\net5.0\MonoModular.Order.Infrastructure.csproj.AssemblyReference.cache
+C:\github\MonoModular\MonoModular.Order.Infrastructure\obj\Debug\net5.0\MonoModular.Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\MonoModular\MonoModular.Order.Infrastructure\obj\Debug\net5.0\MonoModular.Order.Infrastructure.AssemblyInfoInputs.cache
+C:\github\MonoModular\MonoModular.Order.Infrastructure\obj\Debug\net5.0\MonoModular.Order.Infrastructure.AssemblyInfo.cs
+C:\github\MonoModular\MonoModular.Order.Infrastructure\obj\Debug\net5.0\MonoModular.Order.Infrastructure.csproj.CoreCompileInputs.cache
+C:\github\MonoModular\MonoModular.Order.Infrastructure\obj\Debug\net5.0\MonoModular.Order.Infrastructure.dll
+C:\github\MonoModular\MonoModular.Order.Infrastructure\obj\Debug\net5.0\ref\MonoModular.Order.Infrastructure.dll
+C:\github\MonoModular\MonoModular.Order.Infrastructure\obj\Debug\net5.0\MonoModular.Order.Infrastructure.pdb
